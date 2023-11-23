@@ -1,4 +1,4 @@
-# Real Estate App using React as Frontend and Django as Backend by Rajan Gautam
+# Real Estate App using React as Frontend and Django as Backend
 
 ## Steps to Run the Application
 
@@ -12,7 +12,6 @@ Pull the repository into your device and run it as you used to run Django Applic
 
 OR You can simply go through the below link.
 
-### Link: https://rgautam320-real-estate.herokuapp.com
 
 ## User View
 
@@ -80,5 +79,3 @@ From the admin page, you can manage almost all things.
 ![Real Estate - Admin](https://user-images.githubusercontent.com/71542496/126960020-9c794376-fba4-4a5f-8bb4-1e47a263dcbb.png)
 
 ## Thank You
-
-## Rajan Gautam
