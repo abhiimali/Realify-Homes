@@ -63,7 +63,7 @@ const Contact = ({ setAlert }) => {
     return (
         <div className="contact">
             <Helmet>
-                <title>Real Estate - Contact</title>
+                <title>Realify Homes - Contact</title>
                 <meta name="description" content="Contact us" />
             </Helmet>
             <div className="heading-component">
@@ -82,8 +82,7 @@ const Contact = ({ setAlert }) => {
                             <div className="col-10">
                                 <h4>Location:</h4>
                                 <p>
-                                    B2-710, High Rise Hostel, PDEU, Gandhinagar,
-                                    382007, Gujarat
+                                    Sidhhi Galexy Pune
                                 </p>
                             </div>
                         </div>
@@ -97,7 +96,7 @@ const Contact = ({ setAlert }) => {
                             </div>
                             <div className="col-10">
                                 <h4>Email:</h4>
-                                <p>rajan@rockriver.com</p>
+                                <p>abhijit.mali@realifyhomes.com</p>
                             </div>
                         </div>
 
@@ -110,7 +109,7 @@ const Contact = ({ setAlert }) => {
                             </div>
                             <div className="col-10">
                                 <h4>Phone:</h4>
-                                <p>+91 9512245920</p>
+                                <p>+91 12345666778</p>
                             </div>
                         </div>
                         <div>

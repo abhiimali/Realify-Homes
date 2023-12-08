@@ -79,11 +79,6 @@ const Login = ({ login, isAuthenticated }) => {
 						</div>
 					</div>
 				</form>
-				<div className='my-5'>
-					<h5 className='text-center pt-5'>
-						Copyright &copy; Rajan Gautam, 2021 | All Right Reserved
-					</h5>
-				</div>
 			</div>
 		</>
 	);
