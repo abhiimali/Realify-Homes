@@ -120,7 +120,7 @@ const Contact = ({ setAlert }) => {
                                 scrolling="no"
                                 marginheight="0"
                                 marginwidth="0"
-                                src="https://maps.google.com/maps?width=100%25&amp;height=250&amp;hl=en&amp;q=Pandit%20Deendayal%20Energy%20University+(Pandit%20Deendayal%20Energy%20University)&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3784.3942081096543!2d73.83489874960367!3d18.4657946705979!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf8d94414f8f%3A0xc6091a80e79be235!2sSinhgad%20College%20of%20Engineering%2C%20Pune!5e0!3m2!1sen!2sin!4v1702052695308!5m2!1sen!2sin;output=embed"
                             ></iframe>
                         </div>
                     </div>
