@@ -103,11 +103,6 @@ const Signup = ({ setAlert, isAuthenticated, signup }) => {
 					</div>
 				</div>
 			</form>
-			<div className='mt-5'>
-				<h5 className='text-center'>
-					Copyright &copy; Rajan Gautam, 2021 | All Right Reserved
-				</h5>
-			</div>
 		</div>
 	);
 };
