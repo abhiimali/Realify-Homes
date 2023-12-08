@@ -57,7 +57,7 @@ const About = () => {
 				<meta name='description' content='About us' />
 			</Helmet>
 			<header className='heading-component'>
-				<h1 className='font-weight-bold'>River Rock Real Estate</h1>
+				<h1 className='font-weight-bold'>Realify Homes</h1>
 			</header>
 			<section className='container my-3'>
 				<div className='row'>
